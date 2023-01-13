@@ -3,16 +3,16 @@ Using Dart language to develop, Use Firebase as a Database and Use Flutter Frame
 
 # Screens it contains
 => Home Page <br />
-=> Category
-    - New
-    - Discount
-    - Male
-    - Female
-    - Runner
-    - Football
-=> Product Page 
-=> Register
-=> Login
-=> Profile
-=> Shopping Cart
-=> Product Search
+=> Category <br />
+    - New <br />
+    - Discount <br />
+    - Male <br />
+    - Female <br />
+    - Runner <br />
+    - Football <br />
+=> Product Page  <br />
+=> Register <br />
+=> Login <br />
+=> Profile <br />
+=> Shopping Cart <br />
+=> Product Search <br />
