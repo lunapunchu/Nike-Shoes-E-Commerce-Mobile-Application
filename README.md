@@ -15,6 +15,3 @@ In the backend, I created  database from Flutter and connected it to Firestore f
 <p> => Shopping Cart <p/>
 <p> => Product Search <p/>
 
-# Photos
-
-
