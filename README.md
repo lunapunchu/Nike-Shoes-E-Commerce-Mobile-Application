@@ -2,8 +2,8 @@
 Using Dart language to develop, Use Firebase as a Database and Use Flutter Framework.
 
 # Screens it contains
-<p> => Home Page <p/><br />
-=> Category <br />
+<p> => Home Page <p/>
+<p> => Category <p/>
 => Product Page  <br />
 => Register <br />
 => Login <br />
