@@ -4,9 +4,9 @@ Using Dart language to develop, Use Firebase as a Database and Use Flutter Frame
 # Screens it contains
 <p> => Home Page <p/>
 <p> => Category <p/>
-=> Product Page  <br />
-=> Register <br />
-=> Login <br />
-=> Profile <br />
-=> Shopping Cart <br />
-=> Product Search <br />
+<p> => Product Page  <p/>
+<p> => Register <p/>
+<p> => Login <p/>
+<p> => Profile <p/>
+<p> => Shopping Cart <p/>
+<p> => Product Search <p/>
